@@ -1,0 +1,100 @@
+.navbar-dark{
+  background-color: #04B4AE !important;
+  text-align: right;
+}
+
+header{
+  font-family: 'Farsan', cursive;
+  text-align: center;
+  color: #F2F5A9 !important;
+  text-align: right;
+  background-image: url('../img/Fondo.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 8rem 4rem;
+}
+
+h1{
+ font-family: 'Lobster Two', cursive;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2{
+  text-align: center;
+ font-family: 'Lobster Two', cursive;
+ padding: 1%;
+}
+
+footer{
+  background-color: #04B4AE !important;
+  text-align: center;
+  text-size: 500;
+  height: 40%;
+}
+
+a{
+  color: #F2F5A9;
+}
+.icons-section{
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  width: 25%;
+}
+
+.card{
+  margin: auto;
+}
+
+.cajablanca{
+  background-color: #ffffff;
+  text-align: center;
+  padding:5%;
+}
+
+.carousel-indicators li {
+  width: 1rem;
+  height: 1rem;
+  background-color: #04B4AE;
+  border-radius: 50%;
+}
+
+.carousel-indicators {
+  bottom: -1.5rem;
+}
+
+span{
+  background-color: #04B4AE !important;
+  text-align: center;
+   font-family: 'Lobster Two', cursive;
+  font-size: 400;
+}
+
+.icons-section{
+  display: inline-block;
+  text-align: center;
+}
+
+.container{
+  padding: 2rem;
+}
+
+p{
+  font-family: 'Farsan', cursive;
+}
+
+.button{
+  text-align: center;
+}
+
+article{
+  background-color: #F2F5A9;
+  padding: inherit;
+}
+
+.sm-block{
+  width: 100px;
+  height: 100px;
+}
