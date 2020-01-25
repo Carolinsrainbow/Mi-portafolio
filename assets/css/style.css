@@ -1,6 +1,7 @@
 .navbar-dark{
   background-color: #04B4AE !important;
   text-align: right;
+  font-size: 2rem;
 }
 
 header{
@@ -15,6 +16,9 @@ header{
   padding: 8rem 4rem;
 }
 
+body{
+    font-family: 'Farsan', cursive;
+}
 h1{
  font-family: 'Lobster Two', cursive;
   text-align: center;
@@ -24,7 +28,7 @@ h1{
 h2{
   text-align: center;
  font-family: 'Lobster Two', cursive;
- padding: 1%;
+ padding-top: 3%;
 }
 
 footer{
@@ -40,8 +44,6 @@ a{
 .icons-section{
   margin-top: 3rem;
   margin-bottom: 1.5rem;
-  display: inline-block;
-  width: 25%;
 }
 
 .card{
@@ -91,10 +93,4 @@ p{
 
 article{
   background-color: #F2F5A9;
-  padding: inherit;
-}
-
-.sm-block{
-  width: 100px;
-  height: 100px;
 }
