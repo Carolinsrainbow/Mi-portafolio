@@ -7,7 +7,7 @@
 header{
   font-family: 'Farsan', cursive;
   text-align: center;
-  color: #F2F5A9 !important;
+  color: #fffa8f !important;
   text-align: right;
   background-image: url('../img/Fondo.jpeg');
   background-repeat: no-repeat;
@@ -31,26 +31,33 @@ h2{
   text-align: center;
  font-family: 'Lobster Two', cursive;
  padding-top: 3%;
+ color: #04B4AE;
+}
+
+h3{
+font-weight: bold;
 }
 
 footer{
   background-color: #04B4AE !important;
   text-align: center;
-  text-size: 500;
-  height: 40%;
+  text-size: 2rem;
+  padding: 5%;
+
 }
 
 a{
-  color: #F2F5A9;
+  color: #fffa8f ;
 }
 
-.icons-section{
-  margin: 3rem;
-  margin-bottom: 1.5rem;
+#icons-section{
+  margin-top: 2%;
+  margin-botton: 2%;
 }
 
 .card{
   margin: auto;
+  border-width: none;
 }
 
 .cajablanca{
@@ -72,7 +79,6 @@ a{
 
 span{
   background-color: #04B4AE !important;
-  text-align: center;
    font-family: 'Lobster Two', cursive;
   font-size: 1.5rem;
 }
@@ -96,11 +102,4 @@ p{
 
 .button{
   text-align: center;
-}
-
-article{
-  background-color: #F2F5A9;
-}
-
-#trabajo{
 }
