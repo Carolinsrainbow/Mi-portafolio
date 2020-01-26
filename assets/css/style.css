@@ -1,7 +1,7 @@
 .navbar-dark{
   background-color: #04B4AE !important;
   text-align: right;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 header{
@@ -19,10 +19,12 @@ header{
 body{
     font-family: 'Farsan', cursive;
 }
+
 h1{
  font-family: 'Lobster Two', cursive;
   text-align: center;
   text-decoration: underline;
+  font-size: 4rem;
 }
 
 h2{
@@ -41,8 +43,9 @@ footer{
 a{
   color: #F2F5A9;
 }
+
 .icons-section{
-  margin-top: 3rem;
+  margin: 3rem;
   margin-bottom: 1.5rem;
 }
 
@@ -71,16 +74,20 @@ span{
   background-color: #04B4AE !important;
   text-align: center;
    font-family: 'Lobster Two', cursive;
-  font-size: 400;
+  font-size: 1.5rem;
 }
 
-.icons-section{
-  display: inline-block;
+#icons-section{
   text-align: center;
+  border-color: none;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
-.container{
+#container{
   padding: 2rem;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 p{
@@ -93,4 +100,7 @@ p{
 
 article{
   background-color: #F2F5A9;
+}
+
+#trabajo{
 }
